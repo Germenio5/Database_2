@@ -1,0 +1,9 @@
+C:\Users\germenio\OneDrive\Desktop\Schoolworks\Database\StudentSched\StudentSched.UnitTests\bin\Debug\net10.0-windows\.msCoverageExtensionSourceRootsMapping_StudentSched.UnitTests
+C:\Users\germenio\OneDrive\Desktop\Schoolworks\Database\StudentSched\StudentSched.UnitTests\bin\Debug\net10.0-windows\.msCoverageSourceRootsMapping_StudentSched.UnitTests
+C:\Users\germenio\OneDrive\Desktop\Schoolworks\Database\StudentSched\StudentSched.UnitTests\obj\Debug\net10.0-windows\StudentSched.UnitTests.csproj.AssemblyReference.cache
+C:\Users\germenio\OneDrive\Desktop\Schoolworks\Database\StudentSched\StudentSched.UnitTests\obj\Debug\net10.0-windows\StudentSched.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germenio\OneDrive\Desktop\Schoolworks\Database\StudentSched\StudentSched.UnitTests\obj\Debug\net10.0-windows\StudentSched.UnitTests.gentestingplatformentrypointinputcache.cache
+C:\Users\germenio\OneDrive\Desktop\Schoolworks\Database\StudentSched\StudentSched.UnitTests\obj\Debug\net10.0-windows\StudentSched.UnitTests.genautoregisteredextensionsinputcache.cache
+C:\Users\germenio\OneDrive\Desktop\Schoolworks\Database\StudentSched\StudentSched.UnitTests\obj\Debug\net10.0-windows\StudentSched.UnitTests.AssemblyInfoInputs.cache
+C:\Users\germenio\OneDrive\Desktop\Schoolworks\Database\StudentSched\StudentSched.UnitTests\obj\Debug\net10.0-windows\StudentSched.UnitTests.AssemblyInfo.cs
+C:\Users\germenio\OneDrive\Desktop\Schoolworks\Database\StudentSched\StudentSched.UnitTests\obj\Debug\net10.0-windows\StudentSched.UnitTests.csproj.CoreCompileInputs.cache
